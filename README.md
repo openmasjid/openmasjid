@@ -111,4 +111,3 @@ Here are some ideas to get you started:
 - Framework Codeighniter 3.1.1
 - PHP 7.x.x
 - Database MariaDB
-++++++++++++++++++++++++++++
