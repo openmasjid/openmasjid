@@ -22,18 +22,18 @@ Here are some ideas to get you started:
 
 #Manajemen Akses
 - Daftar Akses 
-- 
+
 #Manajemen User
 - Daftar User
-- 
+
 #Pengaturan Masjid
 - Identitas Masjid
-- 
+
 #Utilitas
 - Kategori Kas
 - Jenis Kegiatan
 - Jabatan
-- 
+
 #Pengaturan SMTP
 - Setting Email
 
@@ -45,52 +45,52 @@ Here are some ideas to get you started:
 - Zakat Fitrah
 - Zakat Mal
 - Asset
-- 
+
 #Utilitas
 - Kategori Kas
 - Jenis Kegiatan
 - Jabatan
-- 
+
 #Keuangan
 - Kas Masuk
 - Kas Keluar
 - Saldo Kas
-- 
+
 #Zakat Fitrah
 - Data Muzakki
 - Data Mustahik
 - Rekap Zakat Fitrah
-- 
+
 #Zakat Mal
 - Zakat Mal Masuk
 - Zakat Mal Keluar
 - Rekap Zakat Mal
-- 
+
 #Inventaris
 - Barang Masuk
 - Barang Keluar
 - Stok Barang
-- 
+
 #Agenda Kegiatan
 - Kegiatan
 - Kalender
-- 
+
 #Kalkulator Zakat
 - Zakat Penghasilan
 - Zakat Mal
-- 
+
 #Mustahik
 - Data Mustahik
-- 
+
 #Dokumentasi
 - Data Dokumentasi
-- 
+
 #Memo
 - Create Memo
 - Memo Masuk
 - Memo Keluar
 - Trash
-- 
+
 #Laporan
 - Laporan Kas
 - Laporan Mustahik
