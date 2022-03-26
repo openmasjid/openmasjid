@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 
 ++++++++ HALAMAN SUPERADMIN +++++++
+
 #Manajemen Akses
 - Daftar Akses 
 #Manajemen User
@@ -33,6 +34,7 @@ Here are some ideas to get you started:
 - Setting Email
 
 ++++++++ HALAMAN BENDAHARA ++++++++
+
 #Dashboard
 - Chart Sumber Kas
 - Saldo Kas 
@@ -82,14 +84,13 @@ Here are some ideas to get you started:
 - Laporan Kegiatan
 - Laporan Zakat Mal
 - Laporan Inventaris
-++++++++++++++++++++++++++++++++++++++++
 
 ++++++ ROLE AKSES USER ++++++++
+
 - Administrator
 - Ketua DKM
 - Auditor
-- Bendahara
-+++++++++++++++++++++++++++++++
+- Bendahar
 
 ++++++++++ SYSTEM ++++++++++
 - Framework Codeighniter 3.1.1
