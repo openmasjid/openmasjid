@@ -15,3 +15,84 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+++++++++ HALAMAN SUPERADMIN +++++++
+#Manajemen Akses
+- Daftar Akses 
+#Manajemen User
+- Daftar User
+#Pengaturan Masjid
+- Identitas Masjid
+#Utilitas
+- Kategori Kas
+- Jenis Kegiatan
+- Jabatan
+#Pengaturan SMTP
+- Setting Email
+
+++++++++ HALAMAN BENDAHARA ++++++++
+#Dashboard
+- Chart Sumber Kas
+- Saldo Kas 
+- Zakat Fitrah
+- Zakat Mal
+- Asset
+#Utilitas
+- Kategori Kas
+- Jenis Kegiatan
+- Jabatan
+#Keuangan
+- Kas Masuk
+- Kas Keluar
+- Saldo Kas
+#Zakat Fitrah
+- Data Muzakki
+- Data Mustahik
+- Rekap Zakat Fitrah
+#Zakat Mal
+- Zakat Mal Masuk
+- Zakat Mal Keluar
+- Rekap Zakat Mal
+#Inventaris
+- Barang Masuk
+- Barang Keluar
+- Stok Barang
+#Agenda Kegiatan
+- Kegiatan
+- Kalender
+#Kalkulator Zakat
+- Zakat Penghasilan
+- Zakat Mal
+#Mustahik
+- Data Mustahik
+#Dokumentasi
+- Data Dokumentasi
+#Memo
+- Create Memo
+- Memo Masuk
+- Memo Keluar
+- Trash
+#Laporan
+- Laporan Kas
+- Laporan Mustahik
+- Laporan Stok
+- Laporan Zakat Fitrah
+- Laporan Kegiatan
+- Laporan Zakat Mal
+- Laporan Inventaris
+++++++++++++++++++++++++++++++++++++++++
+
+++++++ ROLE AKSES USER ++++++++
+- Administrator
+- Ketua DKM
+- Auditor
+- Bendahara
++++++++++++++++++++++++++++++++
+
+++++++++++ SYSTEM ++++++++++
+- Framework Codeighniter 3.1.1
+- PHP 7.x.x
+- Database MariaDB
+++++++++++++++++++++++++++++
