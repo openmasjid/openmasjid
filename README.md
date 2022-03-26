@@ -1,4 +1,5 @@
 ### from the community for the community 👋
+![Screenshot_1](https://user-images.githubusercontent.com/102395928/160219495-3a06df24-1fa8-4b0c-89bb-0a71b76cf701.png)
 
 <!--
 **openmasjid/openmasjid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
